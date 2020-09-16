@@ -1,4 +1,4 @@
-names = ["swetha", "ramesh", "janaki", "jamuna", "sai", "jagdish", "maha"];
+names = ["swetha", "ramesh", "janaki", "jamuna", "Ganesh", "sai", "jagdish", "maha"];
 for( var i in names){
 	var firstLatter = names[i].charAt(0);
 	if(firstLatter == "j"){
